@@ -690,7 +690,7 @@ body{
 } 
 
 .btn2{
-  animation: btn 9s linear;
+  animation: btn 5s linear;
 }
 
 @keyframes hero-imgs {
